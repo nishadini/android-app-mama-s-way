@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "653309525924",
+    "firebase_url": "https://mama-sway.firebaseio.com",
+    "project_id": "mama-sway",
+    "storage_bucket": "mama-sway.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:653309525924:android:9c602b2b9d5b9bdc",
+        "android_client_info": {
+          "package_name": "com.example.sitharanishadi.mamasway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "653309525924-i8ulu1c6kmoi6ul4t5gpqnu3hh66mn8q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sitharanishadi.mamasway",
+            "certificate_hash": "63e5eeb760dea04c76ce935f9525b91f5b083299"
+          }
+        },
+        {
+          "client_id": "653309525924-9k37rakhoac0qadtrcb9e043gpua1v51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATXzDm8albKZFmElen7SgCQQXKSzFd178"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "653309525924-9k37rakhoac0qadtrcb9e043gpua1v51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

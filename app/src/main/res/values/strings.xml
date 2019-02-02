@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MAMA\'S WAY</string>
+    <string name="Add">ADD</string>
+    <string name="Food_name">Food name</string>
+    <string name="name">Name</string>
+
+    <string name="title_activity_entry">MAMA\'S WAY</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
